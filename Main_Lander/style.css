@@ -22,6 +22,11 @@ hr {
   max-width: 65px;
   opacity: 1;  
 }
+
+.buffer {
+  height: 35rem;
+}
+
 .btn {
   font-weight: 700;
   border-radius: 300px;
